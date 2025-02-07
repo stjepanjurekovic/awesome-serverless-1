@@ -151,6 +151,7 @@
 - [Serverless Architectures on AWS, Second Edition](https://www.manning.com/books/serverless-architectures-on-aws-second-edition) Book that teaches how to design, secure, and manage serverless backend APIs for web and mobile applications on the AWS platform.
 - [Data Engineering on Azure](https://www.manning.com/books/data-engineering-on-azure) Book that teaches the skills you need to build and maintain big data platforms in massive enterprises.
 - [Cloud native Spring in Action](https://www.manning.com/books/cloud-native-spring-in-action) Book that teaches how to build and deliver production-grade cloud-native apps with Spring framework and Kubernetes.
+- [Learn Docker in a Month of Lunches, Second Edition](https://www.manning.com/books/learn-docker-in-a-month-of-lunches-second-edition) Just the Docker you need to know in 22 bite-sized lessons!
 
 ## Professional services
 
